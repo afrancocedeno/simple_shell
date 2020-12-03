@@ -28,17 +28,11 @@ Shell is a command interpreter that allows the user to communicate with the kern
 ___
 ### File|Description
 
-### :file_folder: Files / Directories 
-
 ##|File
 ---|---
 1|myprotmt.c
 2|eliminar_salto.c
 3|tokens.c
-
-
-eliminar_salto.c | Elimina el salto de linea
-[tokens.c]|[alojar en memoria de forma dinamica los tokens]
 ___
 
 ## Flowchart
