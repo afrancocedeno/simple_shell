@@ -65,6 +65,7 @@ ___
             <img alt="linkedin_page" src="https://github.com/gedafu/readme-template/blob/master/images/linkedin.png" style="float: center; margin-right: 10px" height="50"  width="50">
         </a>
 	<h2 align="center">Vanessa Garcia</h2>
+	<p align="center">
 	<a href="https://twitter.com/Va_GaVa" target="_blank">
             <img alt="twitter_page" src="https://github.com/gedafu/readme-template/blob/master/images/twitter.png" style="float: center; margin-right: 10px" height="50" width="50">
         </a>
