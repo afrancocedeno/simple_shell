@@ -27,6 +27,14 @@ Shell is a command interpreter that allows the user to communicate with the kern
 ## Functions
 ___
 ### File|Description
+
+### :file_folder: Files / Directories 
+
+##|File|Description
+---|---|---
+1|[README.md](./README.md)|...
+2|[0x00. C - Hello, World ](./0x00-hello_world)|...
+3|[0x01. C - Variables, if, else, while](./0x01-variables_if_else_while)|...
 ---|---
 [myprompt.c]|[Entry point]
 [eliminar_salto.c] |[Elimina el salto de linea]
