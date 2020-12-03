@@ -25,12 +25,13 @@ Shell is a command interpreter that allows the user to communicate with the kern
 - Enter your first command.
 
 ## Functions
-
+___
 ### File|Description
 ---|---
 [myprompt.c]|[Entry point]
 [eliminar_salto.c] |[Elimina el salto de linea]
 [tokens.c]|[alojar en memoria de forma dinamica los tokens]
+___
 
 ## Flowchart
 <p align="center">
