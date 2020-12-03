@@ -46,18 +46,13 @@ ___
 </p>
 
 ## Example
+<p><em>Command</em></p>
+<pre><code>./sshell
+</code></pre>
+<p><em>Output</em></p>
+<pre><code>README.md   eliminar_salto.c   header.h   myprompt.c   tokens.c
+</code></pre>
 
-*Command*
-
-**./sshell**
-
-Then the prompt appear, so you can type in the command line.
-
-*(ex)* /bin/ls
-
-*(output)*
-
-README.md  eliminar_salto.c  header.h  myprompt.c  tokens.c
 
 <p align="center">
 <h4 align="center">Made by</h4>
