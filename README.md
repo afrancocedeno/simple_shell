@@ -39,7 +39,7 @@ ___
 
 ## Flowchart
 <p align="center">
-  <img src="https://ibb.co/C8WfcL1"/>
+  <img src="https://github.com/vagava/practice/blob/main/flowchart.PNG"/>
  <h3 align="center">Flowchart</h3>
  <br>
  </p>
