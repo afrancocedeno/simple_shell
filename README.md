@@ -39,7 +39,7 @@ ___
 
 ## Flowchart
 <p align="center">
-  <img src="https://ibb.co/C8WfcL1" width="360"/>
+  <img src="https://ibb.co/C8WfcL1"/>
  <h3 align="center">Flowchart</h3>
  <br>
  </p>
