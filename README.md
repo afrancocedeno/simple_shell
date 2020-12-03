@@ -32,9 +32,9 @@ ___
 
 ##|File
 ---|---
-1|[myprotmt.c]
-2|[0x00. C - Hello, World ]
-3|[0x01. C - Variables, if, else, while]
+1|myprotmt.c
+2|eliminar_salto.c
+3|tokens.c
 
 
 eliminar_salto.c | Elimina el salto de linea
