@@ -1,20 +1,52 @@
 .TH "SIMPLE_SHELL" "1" "03 December 2020" "GNU" "Linux Programmer´s Manual"
 
 .SH NAME
-    The name of the command or function, followed by a one-line description of what it does.
+    	Simple Shell - A simple UNIX command interpreter.
 .SH SYNOPSIS
-    In the case of a command, you get a formal description of how to run it and what command line options it takes.
+	[COMMAND] [OPTION]
 .SH DESCRIPTION
-    A textual description of the functioning of the command or function.
-.SH RETURN VALUE
+	step process.
 
+	getline - a program that keeps in memory the line intrcuciton given by the user inside the shell.
+
+.br
+	environment - a variable that holds all the c programs.
+
+.br
+	token - a program that tokenize by strings.
+
+.br
+	fork - a proram that creates child process so the shell keeps runing.
+
+.br
+	execve - a program that execute arguments into various process.
+
+.br
+	wait - a program that demmans a child process to finish its execution before beginning a new one.
+
+.SH RETURN VALUE
+    	0 succes for normal process termination.
 .SH EXAMPLES
-    Some examples of common usage.
+
+
+	$ ./hsh
+.br
+		($) /bin/ls
+.br
+		AUTHORS  README.md  envpath.c  foo.c  header.h  man_1_simple_shell  myprompt.c  tokens.c
+.br
+		($)
+.br
+		($) exit
+.br
+	$
+
 .SH SEE ALSO
-    A list of related commands or functions.
+    	A list of related commands or functions.
 .SH BUGS
-    List known bugs.
+    	List known bugs.
 .SH AUTHOR
-   Specify your contact information.
+     	Written by Vanessa Garcia Vargas <vagava.123@gmail.com>, and Alejandro Franco Cedeño <afrancocedeno@gmail.com>.
 .SH COPYRIGHT
-    Specify your copyright information.
+   	Copyright © 2020 Own elaboration.
+       	This is free software: you are free to change and redistribute it.  There is NO WARRANTY, to the extent permitted by law.
