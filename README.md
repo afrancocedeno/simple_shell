@@ -24,15 +24,17 @@ Shell is a command interpreter that allows the user to communicate with the kern
 - ./sshell
 - Enter your first command.
 
-## Functions
 ___
-### File|Description
+## Files|Description
 
 ##|File
 ---|---
 1|myprotmt.c
 2|eliminar_salto.c
 3|tokens.c
+4|header.h
+5|AUTHORS
+6|README.md
 ___
 
 ## Flowchart
