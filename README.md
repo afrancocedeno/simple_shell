@@ -35,9 +35,9 @@ ___
 1|[README.md](./README.md)|...
 2|[0x00. C - Hello, World ](./0x00-hello_world)|...
 3|[0x01. C - Variables, if, else, while](./0x01-variables_if_else_while)|...
----|---
-[myprompt.c]|[Entry point]
-[eliminar_salto.c] |[Elimina el salto de linea]
+
+
+eliminar_salto.c | Elimina el salto de linea
 [tokens.c]|[alojar en memoria de forma dinamica los tokens]
 ___
 
